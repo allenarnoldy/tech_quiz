@@ -8,6 +8,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+#### Link: running test in Cypress
+https://drive.google.com/file/d/1SRm6lSzmq3JfhPPcAAMlfkClbv88wVJs/view?usp=sharing
+
+#### Link: running test in Terminal
+https://drive.google.com/file/d/18MUVQTsJQD4mOtMrkAVe__5rkHyorYvu/view?usp=sharing
+
 ## Description
 This Tech Quiz gives the user the ability to answer questions, and it will give them a score of how many they got correct when finished. In the code is also a cypress folder that test that the game is functioning using automated scripts that can be run using cypress or the terminal.
 
